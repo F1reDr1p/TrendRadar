@@ -1,19 +1,20 @@
-DeepSeek
+iphone
+ipad
+mac
+ios
 
 无畏契约
+!手游
 
-火影忍者手游
+火影忍者
++手游
 
 字节
-bytedance
 特斯拉
 腾讯
 阿里巴巴
 小米
 苹果
-
-马斯克
-雷军
 
 微软
 Microsoft
@@ -29,6 +30,8 @@ google
 gemini
 deepmind
 
+DeepSeek
+
 chatgpt
 openai
 sora
@@ -36,16 +39,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
-
-自动驾驶
 
 机器人
 
