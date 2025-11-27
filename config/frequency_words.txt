@@ -3,16 +3,6 @@ ipad
 mac
 ios
 
-无畏契约
-!手游
-
-火影忍者
-+手游
-
-HipHop
-说唱
-说唱歌手
-
 外设
 鼠标
 键盘
@@ -34,13 +24,11 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
 
 谷歌
 google
 gemini
-deepmind
 
 DeepSeek
 
@@ -57,10 +45,13 @@ ai
 
 国产
 中国
+东大
 
 美国
 日本
 韩国
+俄罗斯
+欧洲
 
 芯片
 科技
